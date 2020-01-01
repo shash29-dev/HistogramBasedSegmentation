@@ -36,7 +36,7 @@ python main.py ship.jpg --labels=2 --manual_label 1
 * scipy
 * matplotlib
 ```
-#### Citation
+#### Reference
 
 This code is Python implementation of this [paper](https://link.springer.com/article/10.1007/s10851-017-0725-5).
 
