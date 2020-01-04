@@ -28,7 +28,7 @@ First positional argument is image name to be segmented. Rest are optional. Run 
 Run following command from main working directory. Results are saved in ```results``` folder.
 ```
 cd Source
-python main.py ship.jpg --labels=2 --manual_label 1
+python main.py ship.jpg --labels 2 --manual_label 1
 ```
 #### Dependencies
 ```
